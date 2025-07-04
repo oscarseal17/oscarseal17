@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me:</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">You can reach me on:</h2>
+<h2 align="left">You can reach me on</h2>
 
 ###
 
